@@ -28,7 +28,7 @@ public class Browser1 {
 	 driver.findElement(By.name("pwd")).sendKeys(PASSWORD);
 	 driver.findElement(By.id("loginbutton")).click();
 	 
-	 
+	 //pushed and pulled back
 	
 	
 	
